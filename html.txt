@@ -1,22 +1,25 @@
 <!DOCTYPE html>
 
 <html>
-	<head>
-   		<a class="AB" href="https://www.google.com">About</a> 
-    	<a class="SE" href="https://www.google.com">Store</a> 
-    	<a class="GL" href="https://www.google.com">Gmail</a>
-   		<a class="IE" href="https://www.google.com">Images</a>
-
-	</head>
+    <head>
+	    <title>Google</title></head>
 	<body>
-	<div id="Content">
-    	<img alt="Stay and Play at Home with Popular Past Google Doodles: Rockmore (2016)" border="0" height="220" src="/logos/doodles/2020/stay-and-play-at-home-with-popular-past-google-doodles-rockmore-2016-6753651837108769-law.gif" style="padding-top:0px" title="Stay and Play at Home with Popular Past Google Doodles: Rockmore (2016)" width="550" data-iml="1588292923152" data-atf="1"><br>
-		<input id="Search Bar" type="text"><button type="submit">Search<br>
-		<input id="Google Search" type="submit" value="Google Search">
+   		   <a class="AB" href="https://www.google.com">About</a> 
+    	   <a class="SE" href="https://www.google.com">Store</a> 
+    	   <a class="GL" href="https://www.google.com">Gmail</a>
+   		   <a class="IE" href="https://www.google.com">Images</a>
+    
+        <div id="Content">
+    	   <img alt="Google" src="https://9to5google.com/wp-content/uploads/sites/4/2020/04/google-doodle-4-7-20.jpg?resize=700,250">
+        </div>
+        <div>
+		  <input id="SearchBar" type="text">
+	   </div>
+	<div>
+		<input id="GoogleSearch" type="submit" value="Google Search">
 		<input id="Feeling" type="submit" value="I'm Feeling Lucky">
 	</div>
-	</body>
-	<footer>
+
 		<div id="footer">
 			<a class="ads" href="https://www.google.com">Adverstising</a> 
 	    	<a class="Bis" href="https://www.google.com">Business</a> 
@@ -25,7 +28,6 @@
 			<a class="Terms" href="https://www.google.com">Terms</a> 
 			<a class="Set" href="https://www.google.com">Settings</a> 
 		</div>
-
-	</footer>
+	</body>	
 
 </html>
