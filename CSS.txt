@@ -1,0 +1,61 @@
+#container { 
+    border:10px;
+    width: 800px;
+}
+
+#header {
+    margin: 20px;
+    word-spacing: 10px;
+    background-color: gray;
+}
+
+#header1 { 
+    float: left;
+}
+
+#header2 {
+    float: right;
+}
+
+#GoogleI {
+    width: 200px;
+    height: auto;
+    float: none;
+}
+
+#gbar {
+    padding: 0px;
+    margin: 10px;
+    text-align: center;
+}
+
+#buttons {
+
+    text-align: center;
+    margin: 20px;
+}
+
+#space { 
+    padding: 30px;
+    
+}
+    
+#footer {
+    background-color: #EEECEC;
+    margin: 20px;
+    word-spacing: 10px;
+    float: none;
+    width: 800px;
+}
+
+.How {
+    word-spacing: 0px;
+}
+
+#footer1 {
+    float: left;
+}
+
+#footer2 {
+    float: right;
+}

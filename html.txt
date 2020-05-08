@@ -1,33 +1,45 @@
 <!DOCTYPE html>
 
 <html>
-    <head>
-	    <title>Google</title></head>
-	<body>
-   		   <a class="AB" href="https://www.google.com">About</a> 
-    	   <a class="SE" href="https://www.google.com">Store</a> 
-    	   <a class="GL" href="https://www.google.com">Gmail</a>
-   		   <a class="IE" href="https://www.google.com">Images</a>
-    
-        <div id="Content">
-    	   <img alt="Google" src="https://9to5google.com/wp-content/uploads/sites/4/2020/04/google-doodle-4-7-20.jpg?resize=700,250">
-        </div>
-        <div>
-		  <input id="SearchBar" type="text">
-	   </div>
-	<div>
-		<input id="GoogleSearch" type="submit" value="Google Search">
-		<input id="Feeling" type="submit" value="I'm Feeling Lucky">
+    <head> <title>Google</title> 
+			<link rel="stylesheet" href="CSS.txt"/>
+	</head>
+  <body>
+	<div id="container">
+			<div id="header">
+			    <div id="header1">
+   		            <a class="AB" href="https://www.google.com">About</a> 
+    	            <a class="SE" href="https://www.google.com">Store</a> 
+    	        </div>
+                <div id="header2">
+    	            <a class="GL" href="https://www.google.com">Gmail</a>
+   		            <a class="IE" href="https://www.google.com">Images</a>
+   		        </div>
+			</div>
+        		<div id="GoogleI">
+    	   			<img alt="Google" src="https://9to5google.com/wp-content/uploads/sites/4/2020/04/google-doodle-4-7-20.jpg?resize=700,250">
+       			</div>
+       				<div id="gbar">
+		  			<input class="SearchBar" type="text">
+	   				</div>
+						<div id="buttons">
+							<input id="GoogleSearch" type="submit" value="Google Search">
+							<input id="Feeling" type="submit" value="I'm Feeling Lucky">
+						</div>
+                            <div id="space"></div>
+						<div id="footer">
+							<div id="footer1">
+								<a class="ads" href="https://www.google.com">Adverstising</a> 
+	    						<a class="Bis" href="https://www.google.com">Business</a> 
+								<a class="How" href="https://www.google.com">How Search works</a>
+							</div>
+							<div id="footer2">
+							<a class="Pr" href="https://www.google.com">Privacy</a> 
+							<a class="Terms" href="https://www.google.com">Terms</a> 
+							<a class="Set" href="https://www.google.com">Settings</a> 
+							</div>
+						</div>
 	</div>
-
-		<div id="footer">
-			<a class="ads" href="https://www.google.com">Adverstising</a> 
-	    	<a class="Bis" href="https://www.google.com">Business</a> 
-			<a class="How" href="https://www.google.com">How Search works</a>
-			<a class="Pr" href="https://www.google.com">Privacy</a> 
-			<a class="Terms" href="https://www.google.com">Terms</a> 
-			<a class="Set" href="https://www.google.com">Settings</a> 
-		</div>
-	</body>	
+  </body>	
 
 </html>
