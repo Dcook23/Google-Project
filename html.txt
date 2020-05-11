@@ -14,17 +14,18 @@
                 <div id="header2">
     	            <a class="GL" href="https://www.google.com">Gmail</a>
    		            <a class="IE" href="https://www.google.com">Images</a>
+   		            <input class="B" type="submit" value="Sign In">
    		        </div>
 			</div>
         		<div id="GoogleI">
-    	   			<img alt="Google" src="https://9to5google.com/wp-content/uploads/sites/4/2020/04/google-doodle-4-7-20.jpg?resize=700,250">
+    	   			<img alt="Google" src="https://9to5google.com/wp-content/uploads/sites/4/2020/04/google-doodle-4-7-20.jpg?resize=800,250">
        			</div>
        				<div id="gbar">
-		  			<input class="SearchBar" type="text">
+		  			<input class="searchbar" size="10%" type="text">
 	   				</div>
 						<div id="buttons">
-							<input id="GoogleSearch" type="submit" value="Google Search">
-							<input id="Feeling" type="submit" value="I'm Feeling Lucky">
+							<input class="GoogleSearch" type="submit" value="Google Search">
+							<input class="Feeling" type="submit" value="I'm Feeling Lucky">
 						</div>
                             <div id="space"></div>
 						<div id="footer">
