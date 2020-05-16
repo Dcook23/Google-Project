@@ -5,7 +5,8 @@
 
 #header {
     word-spacing: 10px;
-    background-color: gray;
+    padding: 20px;
+    margin: 5px;
 }
 
 #header1 { 
@@ -15,6 +16,15 @@
 #header2 {
     float: right;
 }
+
+.tab {
+    position:relative;
+    left: 0px;
+    top: 5px;
+    overflow: hidden;
+    border-radius: 50%
+}
+
 
 .B {
     border-radius: 0px;
